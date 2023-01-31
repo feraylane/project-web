@@ -1,3 +1,7 @@
+body {
+  overflow-x: hidden;
+}
+
 #project {
   background-color: #b3ead5;
 }
@@ -21,4 +25,7 @@ section .jumbotron {
   background-color: #b3ead5;
 }
 
-/* hiraukan */
+.txt {
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
